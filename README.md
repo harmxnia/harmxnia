@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/4797f3fc-c2c8-47ba-bfd1-ae9b7133f1a5)
+![Uploading image.gif…]()
 
 
-🪽
+
+
 <!--
 **hy4xela/hy4xela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
